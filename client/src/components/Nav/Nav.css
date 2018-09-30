@@ -1,0 +1,13 @@
+.navbar {
+    background-color:white;
+    text-align: center;
+    height: 100px;
+    opacity:.8;
+}
+
+.nav-link {
+    color: black;
+   font-style:italic;
+    font-size: 30px;
+    margin-left: 35%;
+}
